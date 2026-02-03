@@ -9,7 +9,8 @@ My focus is on **Server Hardening** and **High-Availability Architecture**, ensu
 ---
 
 ### 🚀 What I'm Working On
-* **Engineering Production-Ready Flutter Apps:** Currently documenting my experience in building scalable mobile architectures in my series.
+* **Engineering Production-Ready Flutter Apps:** Currently documenting my experience in building scalable mobile architectures series.
+* **Trivia Startup:** Serving as CTO, building a high-engagement trivia platform from the ground up.
 
 ### 🛠️ Technical Arsenal
 
@@ -25,15 +26,22 @@ My focus is on **Server Hardening** and **High-Availability Architecture**, ensu
 ---
 
 ### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmatrash&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatrash&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+
+| Tech Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=devmatrash&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatrash&layout=compact&theme=radical&hide_border=true" width="400" /> |
 
 ---
 
 ### 📫 Let's Connect
+I'm always open to discussing **Software Architecture**, **High-Scale Challenges**, or **Infrastructure Optimization**.
+
 <p align="left">
-<a href="https://www.linkedin.com/in/devmatrash/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devmatrash" /></a>
-<a href="mailto:devmatrash@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/devmatrash/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:devmatrash@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
