@@ -25,13 +25,6 @@ My focus is on **Server Hardening** and **High-Availability Architecture**, ensu
 
 ---
 
-### 📊 Github Stats
-
-| Tech Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=devmatrash&show_icons=true&theme=radical&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatrash&layout=compact&theme=radical&hide_border=true" width="400" /> |
----
-
 ### 📫 Let's Connect
 I'm always open to discussing **Software Architecture**, **High-Scale Challenges**, or **Infrastructure Optimization**.
 
