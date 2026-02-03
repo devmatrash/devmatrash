@@ -25,8 +25,10 @@ My focus is on **Server Hardening** and **High-Availability Architecture**, ensu
 ---
 
 ### 📊 Github Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatrash&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmatrash&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmatrash&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatrash&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ---
 
