@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Mahmoud Sohail Alatrash 👋
+## CTO | Senior Solutions Architect | Infrastructure Expert
 
-<!--
-**devmatrash/devmatrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't just write code; I engineer **scalable, secure, and production-ready systems**. 
+With deep expertise ranging from managing **200TB+ cloud storage infrastructures** to crafting pixel-perfect **Flutter experiences**, I specialize in bridging the gap between complex backend architecture and seamless mobile performance.
 
-Here are some ideas to get you started:
+My focus is on **Server Hardening** and **High-Availability Architecture**, ensuring systems are not only fast but robust and secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+* **Engineering Production-Ready Flutter Apps:** Currently documenting my experience in building scalable mobile architectures in my series.
+
+### 🛠️ Technical Arsenal
+
+**Mobile & Client Side**
+* **Flutter & Dart:** (Expert Level) - Focus on Architecture, State Management, and Performance Tuning.
+* **Native Experience:** Android (Mobile/TV), Apple TV.
+
+**Backend & Infrastructure**
+* **Core:** PHP (Laravel, CodeIgniter), MySQL.
+* **Performance & Scale:** Redis, Queue Management, Database Tuning.
+* **DevOps & Security:** Managing Storage Servers, Load Balancers, Cloud Storage (>200TB handling), and Server Security Hardening.
+
+---
+
+### 📊 Github Stats
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatrash&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmatrash&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+I'm always open to discussing **Software Architecture**, **High-Scale Challenges**, or **Infrastructure Optimization**.
+
+[LinkedIn](https://www.linkedin.com/in/devmatrash/) | [Email](mailto:devmatrash@gmail.com)
