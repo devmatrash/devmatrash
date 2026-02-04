@@ -9,7 +9,7 @@ My focus is on **Server Hardening** and **High-Availability Architecture**, ensu
 ---
 
 ### 🚀 What I'm Working On
-* **Engineering Production-Ready Flutter Apps:** Currently documenting my experience in building scalable mobile architectures series.
+* **Engineering Production-Ready Flutter Apps:** Currently documenting my experience in building scalable mobile architectures seriesp[https://github.com/devmatrash/flutter-production-architecture].
 * **Trivia Startup:** Serving as CTO, building a high-engagement trivia platform from the ground up.
 
 ### 🛠️ Technical Arsenal
