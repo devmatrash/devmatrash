@@ -23,6 +23,9 @@ My focus is on **Server Hardening** and **High-Availability Architecture**, ensu
 * **Performance & Scale:** Redis, Queue Management, Database Tuning.
 * **DevOps & Security:** Managing Storage Servers, Load Balancers, Cloud Storage (>200TB handling), and Server Security Hardening.
 
+**[My Technical Articles](https://dev.to/devmatrash)**
+* Documenting my experience in building scalable mobile architectures.
+
 ---
 
 ### 📫 Let's Connect
