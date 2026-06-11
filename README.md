@@ -1,42 +1,19 @@
-# Hi there, I'm Mahmoud Sohail Alatrash 👋
-## CTO | Senior Solutions Architect | Infrastructure Expert
+# Mahmoud Alatrash
 
-I don't just write code; I engineer **scalable, secure, and production-ready systems**. 
-With deep expertise ranging from managing **200TB+ cloud storage infrastructures** to crafting pixel-perfect **Flutter experiences**, I specialize in bridging the gap between complex backend architecture and seamless mobile performance.
+Senior Backend & Infrastructure Engineer. High-concurrency systems, performance and reliability at scale.
 
-My focus is on **Server Hardening** and **High-Availability Architecture**, ensuring systems are not only fast but robust and secure.
+For the last six years I owned the backend and bare-metal infrastructure of a subscription streaming platform: APIs, MySQL, Redis, the observability stack, and customer-facing delivery on self-managed bare-metal, plus 235TB+ of media on S3-compatible object storage with backups. The problems I like only show up under real load.
 
----
+Most of that runs in private production systems, so what I share publicly is how I think about building things that survive production:
 
-### 🚀 What I'm Working On
-* **Engineering Production-Ready Flutter Apps:** Currently documenting my experience in building scalable mobile architectures series : [Engineering Production-Ready Flutter Apps](https://github.com/devmatrash/flutter-production-architecture).
-* **Trivia Startup:** Serving as CTO, building a high-engagement trivia platform from the ground up.
+- **[dev.to/devmatrash](https://dev.to/devmatrash):** backend and infrastructure deep-dives, like why the usual `pm.max_children` math breaks under real traffic.
+- **[flutter-production-architecture](https://github.com/devmatrash/flutter-production-architecture):** a reference architecture and article series on production-grade Flutter (resilient caching, secure storage, navigation observability).
 
-### 🛠️ Technical Arsenal
+### Tools I reach for
+- **Backend:** PHP (Laravel), MySQL, Redis, Nginx, PHP-FPM, queue workers
+- **Infrastructure:** self-managed bare-metal (Linux), load balancing, S3-compatible storage, CDN, Prometheus, Grafana
+- **Mobile:** Flutter, Android (incl. TV), Apple TV
 
-**Mobile & Client Side**
-* **Flutter & Dart:** (Expert Level) - Focus on Architecture, State Management, and Performance Tuning.
-* **Native Experience:** Android (Mobile/TV), Apple TV.
-
-**Backend & Infrastructure**
-* **Core:** PHP (Laravel, CodeIgniter), MySQL.
-* **Performance & Scale:** Redis, Queue Management, Database Tuning.
-* **DevOps & Security:** Managing Storage Servers, Load Balancers, Cloud Storage (>200TB handling), and Server Security Hardening.
-
-**[My Technical Articles](https://dev.to/devmatrash)**
-* Documenting my experience in building scalable mobile architectures.
-
----
-
-### 📫 Let's Connect
-I'm always open to discussing **Software Architecture**, **High-Scale Challenges**, or **Infrastructure Optimization**.
-
-<p align="left">
-<a href="https://www.linkedin.com/in/devmatrash/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:devmatrash@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+### Find me
+- LinkedIn: [linkedin.com/in/devmatrash](https://www.linkedin.com/in/devmatrash/)
+- Email: devmatrash@gmail.com
