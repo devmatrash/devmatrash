@@ -1,8 +1,10 @@
 # Mahmoud Alatrash
 
-Senior Backend & Infrastructure Engineer. High-concurrency systems, performance and reliability at scale.
+Principal Backend & Infrastructure Engineer. High-concurrency systems, performance and reliability at scale.
 
-For the last six years I owned the backend and bare-metal infrastructure of a subscription streaming platform: APIs, MySQL, Redis, the observability stack, and customer-facing delivery on self-managed bare-metal, plus 235TB+ of media on S3-compatible object storage with backups. The problems I like only show up under real load.
+For six years I owned the backend and the bare-metal infrastructure of a subscription streaming platform: APIs, MySQL, Redis, the observability stack and customer-facing delivery on self-managed bare-metal, plus 251TB of media on S3-compatible object storage with backups. I also built its payment system with three web providers and in-app purchase. Today I am the CTO of a real-time multiplayer trivia platform and I am building its backend from zero. The problems I like only show up under real load.
+
+A few numbers: homepage API 1.5s to 190ms, hot query path 2s to 20ms, load on a 96-core server 90 to 3, CDN freezing 8% to 0.2%, game creation 570 queries to 3, and 251TB of media moved between providers in ten days.
 
 Most of that runs in private production systems, so what I share publicly is how I think about building things that survive production:
 
@@ -10,8 +12,9 @@ Most of that runs in private production systems, so what I share publicly is how
 - **[flutter-production-architecture](https://github.com/devmatrash/flutter-production-architecture):** a reference architecture and article series on production-grade Flutter (resilient caching, secure storage, navigation observability).
 
 ### Tools I reach for
-- **Backend:** PHP (Laravel), MySQL, Redis, Nginx, PHP-FPM, queue workers
+- **Backend:** PHP (Laravel), MySQL, Redis, Nginx, PHP-FPM, queue workers, WebSockets (Centrifugo)
 - **Infrastructure:** self-managed bare-metal (Linux), load balancing, S3-compatible storage, CDN, Prometheus, Grafana
+- **Payments:** Paddle, 2Checkout, MyFatoorah, uPayments, RevenueCat, webhook signature and replay checks, idempotent activation, PCI SAQ-A
 - **Mobile:** Flutter, Android (incl. TV), Apple TV
 
 ### Find me
